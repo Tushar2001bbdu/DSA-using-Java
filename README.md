@@ -30,6 +30,8 @@
    2. [Smallest element in an array](https://github.com/ssm0801/DSA-using-Java/blob/master/Arrays/Question1.java)
    3. [Second largest element in an array](https://github.com/ssm0801/DSA-using-Java/blob/master/Arrays/Question2.java)
    4. [Second smallest element in an array](https://github.com/ssm0801/DSA-using-Java/blob/master/Arrays/Question2.java)
+   5. [Fruits Into Baskets](https://github.com/ssm0801/DSA-using-Java/blob/master/Arrays/Question3.java)
+
 
 ## Resources
 
